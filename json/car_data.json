@@ -1,0 +1,43 @@
+{
+  "carros": [
+    {
+      "id": 1,
+      "modelo": "Toyota Corolla",
+      "fabricante": "Toyota",
+      "ano": 2022,
+      "motor": {
+        "tipo": "4 cilindros",
+        "potencia_hp": 168
+      },
+      "transmissao": "Automática",
+      "cores_disponiveis": ["Branco", "Preto", "Prata"],
+      "preco": 30000
+    },
+    {
+      "id": 2,
+      "modelo": "Honda Civic",
+      "fabricante": "Honda",
+      "ano": 2023,
+      "motor": {
+        "tipo": "4 cilindros",
+        "potencia_hp": 180
+      },
+      "transmissao": "CVT",
+      "cores_disponiveis": ["Azul", "Cinza", "Vermelho"],
+      "preco": 28000
+    },
+    {
+      "id": 3,
+      "modelo": "Ford Mustang",
+      "fabricante": "Ford",
+      "ano": 2022,
+      "motor": {
+        "tipo": "V8",
+        "potencia_hp": 450
+      },
+      "transmissao": "Manual",
+      "cores_disponiveis": ["Amarelo", "Preto", "Vermelho"],
+      "preco": 45000
+    }
+  ]
+}
